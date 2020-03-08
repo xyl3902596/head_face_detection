@@ -1,7 +1,7 @@
 # Head And Face Simutaneously Detector
 ------ 
 ## Introduction
-　　For the detection problem of the pairs which have fixed containment relationship, a novel method is proposed to avoid suppression problems between the pairs which occurs when only simple Yolo or SSD used.
+　　For the detection problem of the pairs which have fixed containment relationship, a novel method is proposed to avoid suppression problems between the pairs which occurs when only simple Yolo or SSD  is used.
 ## Enviroment
     python 2.7
     Tensorflow 1.3.0
