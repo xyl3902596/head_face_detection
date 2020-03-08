@@ -8,7 +8,7 @@
 ## Model download
     Baidu netdisk link: https://pan.baidu.com/s/1oZ3pKzNo22vcg4LQ034X4Q Extraction code: ixu8
     Move the model files in downloaded checkpoint folder to the local checkpoint folder
-## Own test dataset
+## Your own test dataset
 　　Move the pictures which you would like to predict in the image/test folder，and the predicted result will be placed in the image/result folder.
 ## Predict
 
