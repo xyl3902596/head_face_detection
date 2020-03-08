@@ -16,5 +16,5 @@
     python evaluate_image.py --head_or_face face    # only predict face
     python evaluate_image.py --head_or_face head_and_face    # predict both head and face 
 ## Result
-  ![avatar](image/result/10.202.112.92_01_20180619111902634_3_2600.jpg，example)
+   !(image/result/10.202.112.92_01_20180619111902634_3_2600.jpg，"example")
 
