@@ -17,7 +17,7 @@
 ## Result
    ![avatar](image/result/10.202.112.92_01_20180619111902634_3_2600.jpg "example") 
    ![avatar](ignore_hard_mode.png "mAP")
-   <center></center>
+
 ## Concat
     Author:Xi Yunlong, Shanghai JiaoTong University
     Email:XiYunlong111@outlook.com
