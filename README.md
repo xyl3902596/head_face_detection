@@ -11,7 +11,6 @@
 ## Your own test dataset
 　　Move the pictures which you would like to predict in the image/test folder，and the predicted result will be placed in the image/result folder.
 ## Predict
-
     python evaluate_image.py --head_or_face head    # only predict head
     python evaluate_image.py --head_or_face face    # only predict face
     python evaluate_image.py --head_or_face head_and_face    # predict both head and face 
@@ -19,4 +18,6 @@
    ![avatar](image/result/10.202.112.92_01_20180619111902634_3_2600.jpg "example") 
    ![avatar](ignore_hard_mode.png "mAP")
    <center></center>
-
+## Concat
+    Author:Xi Yunlong, Shanghai JiaoTong University
+    Email:XiYunlong111@outlook.com
