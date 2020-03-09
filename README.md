@@ -19,5 +19,5 @@
    ![avatar](ignore_hard_mode.png "mAP")
 
 ## Concat
-    Author:Xi Yunlong, Shanghai JiaoTong University
+    Author:Xi Yunlong, Shanghai JiaoTong University,China
     Email:XiYunlong111@outlook.com
